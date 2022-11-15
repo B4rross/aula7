@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransformerGroupTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-15T10:23:12" hostname="FEUP-B303D23" time="0.016">
+  <properties/>
+  <testcase name="transformerGroup()" classname="TransformerGroupTest" time="0.014"/>
+  <testcase name="transformerComposite()" classname="TransformerGroupTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
